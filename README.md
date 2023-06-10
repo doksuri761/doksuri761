@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jang, Dong-Geon!
+My name is Jang, Dong-Geon(Kor: 장동건)!
 <!--
 **doksuri761/doksuri761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
